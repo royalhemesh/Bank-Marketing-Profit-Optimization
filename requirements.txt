@@ -1,6 +1,7 @@
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+shap
+jupyter
