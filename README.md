@@ -1,4 +1,4 @@
-# Bank Marketing Profit Optimization
+# A Data-Driven Solution to Inefficient Bank Marketing Campaigns
 
 ## Executive Summary
 
