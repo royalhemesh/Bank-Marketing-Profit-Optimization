@@ -142,7 +142,7 @@ Demographic variables were less impactful than behavioral indicators.
 ## Usage
 
 1.  **Download the Dataset:**
-    The dataset `bank.csv` is required but not included in the repository. Please download the [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) (or ensure you have the correct `bank.csv` file).
+    The dataset `bank.csv` is required is included in the repository. Please download the dataset
     
 2.  **Place the Dataset:**
     Move `bank.csv` to the `source notebook/` directory (or update the path in the notebook).
